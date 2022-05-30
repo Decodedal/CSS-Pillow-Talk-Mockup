@@ -2,9 +2,9 @@
  * Build Helpers
  *********************************/
 /* give each element a border */
-* {
+/* * {
     border: 1px solid blueviolet;
-}
+} */
 
 /* shrink images for placement */
 img {
@@ -41,12 +41,12 @@ header{
     justify-content: space-between;
     margin-bottom: 20px;
 }
-header div{
+/* header div{
     display: flex;
     flex-wrap: wrap;
     width: 50%;
     margin-bottom: 20px;
-}
+} */
 header h1{
     text-align: left;
 }
